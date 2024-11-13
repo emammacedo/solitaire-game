@@ -7,13 +7,6 @@ import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/* Exercício de avaliação 2
- * 
- * Ana Catarina Pais Pereira - 2019244449
- * Ema Margarida da Silva Macedo - 2019233271
- * 
- Jogo da Paciência/Solitário */
-
 //Esta classe implementa a classe Registo//
 
 public class Registo implements Serializable

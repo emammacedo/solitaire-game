@@ -1,12 +1,5 @@
 import java.util.ArrayList;
 
-/* Exercício de avaliação 2
- * 
- * Ana Catarina Pais Pereira - 2019244449
- * Ema Margarida da Silva Macedo - 2019233271
- * 
- Jogo da Paciência/Solitário */
-
 //Esta classe implementa o Tabuleiro de Jogo//
 
 public class Jogo_Tabuleiro
